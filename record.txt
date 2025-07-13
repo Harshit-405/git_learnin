@@ -1,0 +1,93 @@
+Date of Last Meter Reading: 2023-12-14
+Current Date: 2024-03-16
+
+New unit: 18112.0
+Old unit: 17680.0
+Total Renter's unit: 432.0
+
+Total bill: 3806.0
+Total unit: 756.0
+
+Cost of 1 unit: 3806.0 / 756.0 = 5.034391534391534 rupees
+
+Cost of Renters unit: 432.0 * 5.034391534391534 = 2174.8571428571427
+============================================================
+
+============================================================
+
+Date of Last Meter Reading: 2024-03-16
+Current Date: 2024-07-19
+
+New unit: 19024.0kWh
+Old unit: 18112.0kWh
+Renter's unit: 912.0kWh
+
+Total bill: 12656.0rupees
+Total unit: 2190.41kWh
+
+Cost of 1 unit: 12656.0 / 2190.41 = 5.777913723914701 rupees
+
+Cost of Renters unit: 912.0 * 5.777913723914701 = 5269.457316210208rupees
+============================================================
+
+
+============================================================
+
+Date of Last Meter Reading: 2024-07-19
+Current Date: 2024-10-12
+
+New unit: 19454.0kWh
+Old unit: 19024.0kWh
+Renter's unit: 430.0kWh
+
+Total bill: 8305.0rupees
+Total unit: 1400.0kWh
+
+Cost of 1 unit: 8305.0 / 1400.0 = 5.932142857142857 rupees
+
+Cost of Renters unit: 430.0 * 5.932142857142857 = 2550.8214285714284rupees
+============================================================
+
+Date of Last Meter Reading: 2024-10-12
+Current Date: 2025-02-02
+
+New unit: 19996.0kWh
+Old unit: 19454.0kWh
+Renter's unit: 542.0kWh
+
+Total bill: 7104.0rupees
+Total unit: 1415.0kWh
+
+Cost of 1 unit: 7104.0 / 1415.0 = 5.020494699646643 rupees
+
+Cost of Renters unit: 542.0 * 5.020494699646643 = 2721.1081272084807rupees
+============================================================
+
+Date of Last Meter Reading: 2025-02-02
+Current Date: 2025-04-10
+
+New unit: 20238.9kWh
+Old unit: 19996.0kWh
+Renter's unit: 242.90000000000146kWh
+
+Total bill: 2612.0rupees
+Total unit: 580.0kWh
+
+Cost of 1 unit: 2612.0 / 580.0 = 4.503448275862069 rupees
+
+Cost of Renters unit: 242.90000000000146 * 4.503448275862069 = 1093.887586206903rupees
+============================================================
+
+Date of Last Meter Reading: 2025-04-10
+Current Date: 2025-06-11
+
+New unit: 20647.0kWh
+Old unit: 20238.9kWh
+Renter's unit: 408.09999999999854kWh
+
+Total bill: 3563.0rupees
+Total unit: 794.3kWh
+
+Cost of 1 unit: 3563.0 / 794.3 = 4.485710688656679 rupees
+
+Cost of Renters unit: 408.09999999999854 * 4.485710688656679 = 1830.6185320407842rupees
