@@ -1,6 +1,4 @@
-This is a elctricity bill calculator that i made for my personal use
-using this I (renter )keep tracks of my meter's reading and when the bill comes as I calculate hom much unit i have used using this 
-and then hence calc how much i owe the owner (landlord)
+This is a elctricity bill calculator 
 
 File structure :
 Calc Elec bill.py #main program to run which takes user input
